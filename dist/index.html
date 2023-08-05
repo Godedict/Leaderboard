@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaderboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
+<script defer src="index.bundle.js"></script></head>
+<body>
+  <main class="all">
+    <div class="mainarea">
+      <h1 class="maintitle">Leaderboard</h1>
+    </div>
+    <section class="scoresform">
+      <div class="leaderboard">
+        <h3 class="scores">Recent scores:</h3>
+        <button class="refreshBtn">Refresh</button>
+      </div>
+      <ul class="leaders">
+        <!-- Your list items will be added dynamically -->
+      </ul>
+      <form id="formdetails">
+        <h3 class="formtitle">Add your score</h3>
+        <input type="text" id="name" placeholder="Your name" required>
+        <input type="number" id="score" placeholder="Your score" required>
+        <button class="submitBtn" type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
