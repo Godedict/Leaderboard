@@ -143,9 +143,9 @@ To build the project for production, run:
 👤 **Aderounmu Adeniyi**
 
 
-- GitHub: [@CVILLA09](https://github.com/godedict)
+- GitHub: [@Godedict](https://github.com/godedict)
 
-- LinkedIn: [@CristianVilla](https://www.linkedin.com/in/adeniyi-aderounmu-a03463111/)
+- LinkedIn: [@AderounmuAdeniyi](https://www.linkedin.com/in/adeniyi-aderounmu-a03463111/)
 
 
 
