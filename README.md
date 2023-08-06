@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://godedict.github.io/Portfolio-Setup/)
+- [Live Demo Link](https://godedict.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
