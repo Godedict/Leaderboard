@@ -155,7 +155,6 @@ To build the project for production, run:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-
 Future changes:
 - Project 2: send and receive data from API
 - Project 3: final touches
